@@ -1,2 +1,2 @@
 # githubiosconnector
-Tech app project
+Tech app project for review.
